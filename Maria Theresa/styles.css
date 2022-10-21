@@ -1,0 +1,18 @@
+body{
+                      background-color:beige;
+                      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+}
+.photo{
+                      width: 180px;
+                      height: 230px;
+}
+h1{
+                      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+.btn{
+                     padding-top: 10px;
+                     padding-bottom: 10px;
+                     width: 600px;
+                     background-color:rgb(142, 31, 129);
+                     color:rgb(252, 208, 225);
+}
