@@ -1,9 +1,0 @@
-<html>
-   <body style="background-color:rgba(0,0,0,.95);" ><br><br><br><br><br><br>
-    <h1 style="color:#a7ccea">One Piece Theme Song</h1>
-     <video src="opening.mp4" width="100%"controls></video>
-	<h1 style="color:#a7ccea">Toei animation Theme</h1>
-	 <audio src="ringtone.mp3" width="100%" controls autoplay></audio>
-   </body>
-</html>
-     
