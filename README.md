@@ -7,7 +7,7 @@ Lets dive into hands on opensource by creating our first Pull Request.
 Follow these steps
 
 1. Clone this repository
-2. Create a folder of your name into the Profile folder. If your name is `GFG` then make a foler of `GFG` 
+2. Create a folder of your name into the Profile folder. If your name is `GFG` then make a folder of `GFG` 
 3. Into that folder create a basic [Linktree](https://linktr.ee/gfgrcoem) like UI where you have your Name as a heading and some Social media buttons that would Redirect to your Social Media Handles.
 4. The UI should Look like this 
     
